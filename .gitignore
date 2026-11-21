@@ -1,0 +1,22 @@
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Serialized model & preprocessing artifacts
+*.h5
+*.pkl
+
+# IDE & OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
